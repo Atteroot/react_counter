@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CAClB,QAAS,CACT,OAAQ,CACR,8BAAgC","file":"main.3a08b512.chunk.css","sourcesContent":["#root {\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  transform: translate(-50%, -50%);\n}\n"]}
